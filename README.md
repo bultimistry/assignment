@@ -25,8 +25,8 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/image-gallery-app.git
-cd image-gallery-app
+git clone https://github.com/bultimistry/assignment.git
+cd my-app
 Install dependencies:
 
 bash
